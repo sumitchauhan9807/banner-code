@@ -1,0 +1,19 @@
+1. only one background selection
+2. timeline bug
+3. no cod in home delivery
+4. change datatypes of site data
+5. add slideshow --> 博士紅感謝全省合作客戶  / 設備展示
+
+
+
+Site Data	網站設定
+choose file	選擇上傳檔案
+no file chosen	尚未選擇檔案
+upload image	上傳圖片
+update heading	更新標題
+update text	更新文字
+Please wait for the seller to verify the price	請待賣家確認總金額
+cash on delivery	貨到付款
+ecpay	匯款
+請輸入您的訂單號碼/手機號碼/email --> placeholder for order-id
+X Orders Found	Ｘ則相符訂單

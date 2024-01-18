@@ -1,0 +1,12 @@
+// system genetared
+"username is required": ""
+"password is required": ""
+"please fillout this field":""
+"phonenumber must be at least 8 characters long" : ""
+"phonenumber must not be grater than 20 chars" : ""
+"938923 is not a valid phone number" : ""
+'Please enter a valid 8 digit cell phonenumber',
+"quantity must be less than or equal to 50" : ""
+
+
+彩色布條 / 彩色帆布 / 自行設計 / 代客設計

@@ -1,0 +1,54 @@
+1. here is the pricing:
+
+60x150cm: 
+1 banner: 200 ntd  
+Between 2 to 9 banners, 150 ntd each   
+More than 10 banners, 130 ntd each
+More than 30 banners, 100 ntd each
+
+300x60: ntd 300 each  
+300x90: ntd 450 each
+450x90: ntd 675 each
+
+60*150
+  1 banner __________
+  2-9      ___________
+  >10< 29       __________
+  >30        _________
+
+300*60   _____________
+300*90   _____________
+450*90  ______________
+
+
+
+
+
+Shipping for orders less than 50 banners: 100元
+
+
+
+request for convinenece store
+
+
+--> during order create
+
+LogisticsSubType
+GoodsAmount
+CollectionAmount
+GoodsName:"hey youy",
+SenderName:"綠界科技",
+SenderPhone:"29788833",
+SenderCellPhone:"0912345678",
+ReceiverName:"綠界科技",
+ReceiverPhone:"0229768888",
+ReceiverCellPhone:"0912345678",
+ReceiverEmail:"tesy@gmail.com",
+
+
+
+Request submitted successfully
+Please select a banner image file
+
+npx sequelize-cli db:migrate
+  

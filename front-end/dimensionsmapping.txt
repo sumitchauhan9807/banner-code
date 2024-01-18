@@ -1,0 +1,55 @@
+150x60cm   ==  7   1050*420
+300x60cm   ==  4   1200*240
+300x90cm   ==  4   1200*360
+450x90cm   ==  3   1350*270
+
+隔壁的包子很好吃絶不騙人
+
+小園牛肉麵館內部整修
+內部整修從111年01月01日~12月31日
+
+感謝舊雨新知 歡迎再度光臨 敬請期待
+大匠豬排店遷移啟事
+新地址:台北市中山北路 12段號
+
+1100 --> 150
+
+use ratios insted
+1. get max width of canvas
+2. show canvas always to max width
+3. calculate height in accordance to width
+eg
+max width --> 1100
+banner width -> 150
+
+then canvas height = (1100/150) * 60
+
+
+
+Full name
+payment method: ATM/Credit card
+delivery address
+phone number
+email
+delivery method: home delivery, pick up at convenience shop
+
+quantity
+shipping
+total price
+
+
+1. send email to user after 4th step is complete (orderid)
+2. after payment send pdf download link 
+
+
+HashKey n1drI73jcHNuyy82
+
+logistics:
+
+HashKey n1drI73jcHNuyy82
+HashIV 500jCbwMcX6bPHsL
+HashIV 500jCbwMcX6bPHsL
+shop code: 3322276
+credit card payment:
+shop code: 3322276
+shop security code: 96949858
